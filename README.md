@@ -1,24 +1,47 @@
-# DevFolio 🌟
+**DevFolio**
+================
 
-**DevFolio** is a personal portfolio website that showcases all the projects I've created, along with my resume and contact details. It's designed to be a one-stop platform for anyone who wants to learn more about my work, skills, and how to connect with me.
+A personal portfolio showcasing my projects, resume, and contact information.
 
-## 🚀 Features
+**About**
+--------
 
-- **Projects Tab**: A detailed showcase of all the projects I have worked on, with descriptions, images, and links to live demos or GitHub repositories.
-- **Resume Tab**: A downloadable and interactive resume highlighting my education, skills, and professional experience.
-- **Contact Tab**: An easy-to-use form or links to reach me directly via email or social media.
-- **Responsive Design**: Optimized for both desktop and mobile devices for seamless user experience.
+DevFolio is a personal project that highlights my skills and experience as a developer. This portfolio website includes a collection of my notable projects, a resume, and a contact form for anyone interested in getting in touch.
 
-## 🛠️ Technologies Used
+**🌐 Live Website:** [DevFolio.com](https://prateekraiger.github.io/devfolio/)
 
--  [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML),
--  [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
--  [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- **Deployment**: [GitHub Pages](https://pages.github.com/),
+**Features**
+------------
 
-## 🌟 Live Demo
+* **Project Showcase**: A curated selection of my best projects, with descriptions, screenshots, and links to live demos or GitHub repositories.
+* **Resume**: A concise and up-to-date resume, highlighting my education, work experience, and technical skills.
+* **Contact**: A simple contact form for anyone interested in reaching out to me for collaborations, job opportunities, or just to say hello.
 
-Check out the live version of DevFolio here: [DevFolio Live](#)
+**Technologies Used**
+-------------------
+  *- [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML)
+  *- [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
+  *-  [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-## 📂 Project Structure
+
+**Getting Started**
+---------------
+
+To run the project locally, follow these steps:
+
+1. Clone the repository: `git clone https://github.com/prateekraiger/devfolio.git`
+2. Install dependencies: `npm install` or `yarn install`
+3. Start the development server: `npm start` or `yarn start`
+
+
+
+**License**
+-------
+
+This project is licensed under the [Apache 2.0 License](http://www.apache.org/licenses/).
+
+**Author**
+------
+
+* [Your Name](https://github.com/your-username)
 
