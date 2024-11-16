@@ -1,2 +1,2 @@
 # devFolio
-As An Developer my portfolio which includes projects mad eby me
+As An Developer my portfolio which includes projects made By Me
