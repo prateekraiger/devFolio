@@ -43,5 +43,5 @@ This project is licensed under the [Apache 2.0 License](http://www.apache.org/li
 **Author**
 ------
 
-* [Your Name](https://github.com/your-username)
+* [Pratik](https://github.com/prateekraiger)
 
