@@ -1,0 +1,77 @@
+
+
+https://prod.liveshare.vsengsaas.visualstudio.com/join?0D57B5302506A6B1FDEE09DD05B6322C0EFE
+
+
+
+#---------- HEADER ----------#
+
+
+
+
+
+
+
+
+
+
+
+#---------- RESUME ----------#
+
+
+
+
+
+
+Skills and Technologies
+
+HTML5
+CSS3
+JavaScript
+React.js
+Node.js
+GitHub
+MongoDB
+VS Code
+
+
+
+
+#---------- CONTACT ----------#
+
+Contact Info
+
+<span class="material-symbols-outlined" aria-hidden="true"> mail </span>
+
+Mail Us
+khalid.com
+khalid@service.com
+
+<span class="material-symbols-outlined" aria-hidden="true"> call </span>
+
+Contact Us
++2382395632498
++2323982609238
+
+<span class="material-symbols-outlined" aria-hidden="true"> location_on </span>
+
+Address
+Al Azbakeya, Cairo Governorate 4320001, Egypt
+
+Social Info
+
+Let’s Work Together.
+
+Name*
+Email*
+Subject
+Message*
+
+Send Message
+
+
+
+
+#---------- FOOTER ----------#
+
+Copyright 2023. All right reserved by codewithsadee
