@@ -38,7 +38,7 @@ To run the project locally, follow these steps:
 **License**
 -------
 
-This project is licensed under the [Apache 2.0 License](http://www.apache.org/licenses/).
+This project is licensed under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0.txt).
 
 **Author**
 ------
