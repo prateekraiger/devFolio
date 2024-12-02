@@ -34,7 +34,6 @@ To run the project locally, follow these steps:
 3. Start the development server: `npm start` or `yarn start`
 
 
-
 **License**
 -------
 
