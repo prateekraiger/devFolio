@@ -8,7 +8,7 @@ A personal portfolio showcasing my projects, resume, and contact information.
 
 DevFolio is a personal project that highlights my skills and experience as a developer. This portfolio website includes a collection of my notable projects, a resume, and a contact form for anyone interested in getting in touch.
 
-**🌐 Live Website:** [DevFolio.com](https://prateekraiger.github.io/devfolio/)
+**🌐 Live Website:** [DevFolio.com](https://devfolio-2lv.pages.dev/)
 
 **Features**
 ------------
