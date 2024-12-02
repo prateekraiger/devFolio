@@ -24,15 +24,6 @@ DevFolio is a personal project that highlights my skills and experience as a dev
   *  [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 
-**Getting Started**
----------------
-
-To run the project locally, follow these steps:
-
-1. Clone the repository: `git clone https://github.com/prateekraiger/devfolio.git`
-2. Install dependencies: `npm install` or `yarn install`
-3. Start the development server: `npm start` or `yarn start`
-
 
 **License**
 -------
